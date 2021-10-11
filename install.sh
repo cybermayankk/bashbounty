@@ -1,6 +1,6 @@
 git clone https://github.com/cybermayankk/bashbounty.git
 
-chown u+x bashbounty.sh
+chown u+x code.sh
 
 ./bashbounty.sh -d ( enter your target here ) 
 
