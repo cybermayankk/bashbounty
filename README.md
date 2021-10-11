@@ -9,6 +9,8 @@ This tool is made up in with BASH/SHELL Scripting
 
 HOW TO USE THIS SCRIPT ?
 
-STEP 1 - git clone https://github.com/cybermayankk/bashbounty.git
-STEP 2 - ./tool2.sh -d (enter target here )
+Checkout install.sh i already tell there
 
+If you like this script follow me on linkedin https://www.linkedin.com/in/mayank-gandhi-0163ba216/
+
+Follow me on instagram https://instagram.com/mr.mayankk_
